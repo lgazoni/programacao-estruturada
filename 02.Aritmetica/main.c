@@ -7,11 +7,6 @@ Programa para realizar operações aritmeticas
 #include <stdlib.h>
 #include "aritmetica.h"
 
-int soma(int a, int b){return a + b;}
-int subtracao(int a, int b){return a - b;}
-int produto(int a, int b){return a * b;}
-int divisao(int a, int b){return a / b;}
-
 int main(int argc, char const *argv[])
 {
     int x, y, z;
