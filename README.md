@@ -3,14 +3,14 @@ Este conteúdo é parte do curso Programação Estruturada com C. Estamos Dispon
 
 Para a realização dos execícios estaremos utilizando o compilador `MinGW-64`.
 
-###Processo de instalação do MinGW
+### Processo de instalação do MinGW
 
 #### MinGW-W64 Online Installer
 Fazer o download do arquivo [MinGW-W64-install.exe](https://sourceforge.net/projects/mingw-w64/files/#:~:text=MinGW-W64-install.exe).
 
 ---
 
-Após o processo de instalação configure o path dasvariáveis de ambiente do windows apontando para a pasta bin do MinGw.
+Após o processo de instalação, acesse o diretorio onde o MinGW foi instalado ate encontrar a pasta `bin`. Acesse a configuração do seu Windows para editar as variáveis ambiente e adicione o caminho do mingw a variável de ambiente `path` do Windows.
 
 ---
 
